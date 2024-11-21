@@ -2,7 +2,8 @@
 <h2>
  👋 Hi, I'm Wagner !  How are you ?  Welcome. 
 </h2>
-<P>This was another project completed and published on the web. Up to now, I am studying Front End Web Development on the teaching platform: 
+<P>This project was done in completion of JavaScript module 2 along with another practical animated menu project, serving as a navigation menu between the temperature converter and speed converter pages.</P> 
+<p>Teaching platform: 
 <a href="https//rodolfomore.com.br/deviclub">DevClub.</a></P>
 
 <div style="flex-basis: 48%;">
@@ -15,7 +16,7 @@
 </div>
 <br>
 <div>
-<p>This project was focused on developing and learning about the JavaScript language and applications. </p>
+<p>Skills: Responsiveness · Code review · Creativity · HTML5 · Troubleshooting · CSS · GitHub · Good programming practices · Repositories · Resilience · JavaScript · Microsoft Windows</p>
 <img src="https://www.bing.com/images/blob?bcid=ThcKfr4b4MQHqxcxoNWLuD9SqbotqVTdP9U">
 
 </div>
